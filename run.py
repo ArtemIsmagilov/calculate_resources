@@ -52,7 +52,4 @@ def create_table(path_to_sql='init_tables.sql'):
 
 
 if __name__ == '__main__':
-    create_table('test2_init_tables.sql')
-    from save_values_to_excel import show_table
-    t1 = show_table()
-    print(t1)
+    create_table()
