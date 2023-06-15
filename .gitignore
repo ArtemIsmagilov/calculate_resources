@@ -1,0 +1,7 @@
+venv
+artem.sqlite3
+data.xlsx
+.idea/
+__pycache__
+.pytest_cache
+
