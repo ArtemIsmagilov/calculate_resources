@@ -119,14 +119,15 @@ python3 save_values_to_excel.py
 ```bash
 pytest -vv test_sample.py 
 ```
-* test0
-    ![table0.png](imgs/table0.png)
 
-* test1
-    ![table1.png](imgs/table1.png)
+### test0
+![table0.png](imgs/table0.png)
 
-* test2
-    ![table2.png](imgs/table2.png)
+### test1
+![table1.png](imgs/table1.png)
+
+### test2
+![table2.png](imgs/table2.png)
 
 ## Задумки
 * Можно скрипт реализовать в виде десктоп программы
