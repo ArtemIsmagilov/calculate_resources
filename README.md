@@ -99,7 +99,7 @@ git clone https://github.com/ArtemIsmagilov/calculate_resources.git & cd calcula
 - создаём виртуальное окружение
 
 ```bash
-python3 -m venv venv & source/venv/bin/activate
+python3 -m venv venv & source venv/bin/activate
 ```
 
 - устанавливаем зависимости
